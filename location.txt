@@ -1,0 +1,4 @@
+3 Sadar 3 3000.000000
+2 Dharampeth 2 2000.000000
+1 Sitabuldi 3 1500.000000
+4 ManishNagar 1 500.000000
